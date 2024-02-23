@@ -7,10 +7,6 @@ App is very simple and straightforward. It has a clean interface that makes it e
 https://habit-tracker-react-anupam.netlify.app
 
 
-# Contact List
-Contact List is a web application for managing a contact list. It allows users to create, view, edit, and delete contacts.
-
-
 # Features
 - Add multiple habits to track like reading a book, going to the gym etc
 - Track each habit everyday. These are the 3 statuses of a habit:
