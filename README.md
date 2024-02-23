@@ -1,4 +1,4 @@
-# Habit_Tracker
+# Habit Tracker
 ### What is Habit Tracker?
 This is a Habit Tracker application built with React.js
 App is very simple and straightforward. It has a clean interface that makes it easy to see what's happening, and how you can manage your Habit or day to day tasks.
